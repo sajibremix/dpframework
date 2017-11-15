@@ -1,0 +1,12 @@
+<?php
+if(logged_in()){
+	form_processor();
+	heading();
+?>
+	<dir>hellow</dir>
+<?php
+	footing();
+}else{
+	please_go("login");
+}
+?>
