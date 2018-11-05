@@ -1,5 +1,5 @@
 <?php
-define("BASE","http://localhost/dpf");
+define("BASE","http://localhost/dpframework");
 define("START", 2);
 define("TITLE", "DFP");
 define("DESCRIPTION", "DFP");
